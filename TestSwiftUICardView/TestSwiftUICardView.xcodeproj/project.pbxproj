@@ -11,6 +11,8 @@
 		697BF37C2D216BE1001964D0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697BF37B2D216BE1001964D0 /* ContentView.swift */; };
 		697BF37E2D216BE3001964D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 697BF37D2D216BE3001964D0 /* Assets.xcassets */; };
 		697BF3812D216BE3001964D0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 697BF3802D216BE3001964D0 /* Preview Assets.xcassets */; };
+		697BF3882D218189001964D0 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697BF3872D218188001964D0 /* Theme.swift */; };
+		697BF38A2D21824B001964D0 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697BF3892D21824B001964D0 /* DailyScrum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		697BF37B2D216BE1001964D0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		697BF37D2D216BE3001964D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		697BF3802D216BE3001964D0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		697BF3872D218188001964D0 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
+		697BF3892D21824B001964D0 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				697BF37B2D216BE1001964D0 /* ContentView.swift */,
 				697BF37D2D216BE3001964D0 /* Assets.xcassets */,
 				697BF37F2D216BE3001964D0 /* Preview Content */,
+				697BF3872D218188001964D0 /* Theme.swift */,
+				697BF3892D21824B001964D0 /* DailyScrum.swift */,
 			);
 			path = TestSwiftUICardView;
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				697BF38A2D21824B001964D0 /* DailyScrum.swift in Sources */,
+				697BF3882D218189001964D0 /* Theme.swift in Sources */,
 				697BF37C2D216BE1001964D0 /* ContentView.swift in Sources */,
 				697BF37A2D216BE1001964D0 /* TestSwiftUICardViewApp.swift in Sources */,
 			);
